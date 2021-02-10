@@ -6,11 +6,35 @@ img
 
 #boole
 {
-
+  font-family: papyrus;
   font-size: 200%;
+  color: red
 }
 
 #occupancy
 {
-font-size: 200%;
+font-family: papyrus;
+  font-size: 200%;
+  color: red
 }
+
+
+
+
+#title
+
+{
+
+font-family: papyrus;
+font-size: 200%;
+color: blue
+}
+
+
+#booole {
+
+font-family: papyrus;
+font-size: 160%;
+
+}
+
