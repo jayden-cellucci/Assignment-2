@@ -27,8 +27,10 @@ font-family: papyrus;
 
 font-family: papyrus;
 font-size: 200%;
-color: blue
+color: blue;
+border: 5px solid green
 }
+
 
 
 #booole {
@@ -38,3 +40,22 @@ font-size: 160%;
 
 }
 
+#link
+
+{
+font-family: papyrus;
+font-size: 160%;
+color: red;
+border: 5px solid green
+
+}
+
+#link2
+
+{
+font-family: papyrus;
+font-size: 160%;
+color: red;
+border: 5px solid green
+
+}
